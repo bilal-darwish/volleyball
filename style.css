@@ -1,0 +1,124 @@
+body {
+    background-color: #48c7b6;
+  }
+  
+  .title {
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+    font-family: sans-serif;
+  }
+
+  .buttonsdiv {
+    text-align: center;
+  }
+
+  .buttons {
+    color: black;
+    font-family: sans-serif;
+    font-weight: lighter;
+    border: 2px solid black;
+    border-radius: 3px;
+    font-size: 20px;
+    transition-duration: 0.3s;
+  }
+
+  .buttons:hover {
+    background-color: rgb(212, 212, 212);
+  }
+  
+  .introtitle {
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  .introtext {
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  .introimg {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .rulestitle {
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  .rulesintro {
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  .rulestext {
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+    font-family: sans-serif;
+    list-style: inside;
+  }
+  
+  .rulesimg {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .skillstitle {
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  .skillsintro {
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+    font-family: sans-serif;
+  }
+
+  .skillssubheading {
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+    font-family: sans-serif;
+  }
+
+  .skills {
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  .imgdescription {
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 10px;
+  }
+
+  hr {
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+
+  a {
+    text-decoration: none;
+  }
